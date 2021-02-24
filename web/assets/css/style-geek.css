@@ -705,7 +705,12 @@ span.sub-img{
 @media (max-width: 575px){
    #mainSlider{
       height: 300px;
-      margin-top: 63px;
+      margin-top: 60px;
+   }
+
+   
+   #mainSlider .carousel-inner, #mainSlider .carousel-item{
+      height: 45vh;
    }
    
    .carousel-caption h3{
@@ -742,7 +747,7 @@ span.sub-img{
    /* slider */
    #mainSlider{
       height: 370px;
-      margin-top: 63px;
+      margin-top: 60px;
    }
 
    #mainSlider .carousel-inner, #mainSlider .carousel-item{
