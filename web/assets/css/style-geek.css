@@ -707,7 +707,6 @@ span.sub-img{
       height: 300px;
       margin-top: 60px;
    }
-
    
    #mainSlider .carousel-inner, #mainSlider .carousel-item{
       height: 45vh;
@@ -751,7 +750,7 @@ span.sub-img{
    }
 
    #mainSlider .carousel-inner, #mainSlider .carousel-item{
-      height: 45vh;
+      height: 500vh;
    }
    
    .titulo{
