@@ -745,8 +745,8 @@ span.sub-img{
 
    /* slider */
    #mainSlider{
-      height: 240px;
-      margin-top: 60px;
+      height: 220px;
+      margin-top: 63px;
    }
 
    #mainSlider .carousel-inner, #mainSlider .carousel-item{
