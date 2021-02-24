@@ -511,19 +511,20 @@ span.sub-img{
    color: #fa292c;
 }
 
-/* ---- FEEDBACK ---- */
+/* ---- COMENTARIOS ---- */
 .main-subtitle.backs{
    margin: 0 auto;
+}
+
+.main-subtitle.backs::after{
+   content: "";
+   width: 50%;
 }
 
 .usuario-name{
    color: #000;
    font-size: 18px;
    text-align: left;
-}
-
-.hashtag{
-   color: #00909b;
 }
 
 /* copy */
@@ -554,6 +555,11 @@ span.sub-img{
 }
 
 @media (max-width: 1025px){
+   #mainSlider{
+      height: 300px;
+      margin-top: 65px;
+   }
+   
    /* intro slider */
    #introducao p{
       color: #FFF;
@@ -611,6 +617,7 @@ span.sub-img{
 }
 
 @media (max-width: 768px){
+   /* comics */
    .container.comics{
       padding: 0;
    }
@@ -740,12 +747,8 @@ span.sub-img{
 
    /* slider */
    #mainSlider{
-      height: 280px;
+      height: 300px;
       margin-top: 63px;
-   }
-
-   #mainSlider .carousel-inner, #mainSlider .carousel-item{
-      height: 50vh;
    }
    
    .titulo{
