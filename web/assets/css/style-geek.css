@@ -741,8 +741,12 @@ span.sub-img{
 @media (max-width: 495px){
    /* slider */
    #mainSlider{
-      height: 300px;
+      height: 360px;
       margin-top: 63px;
+   }
+
+   #mainSlider .carousel-inner, #mainSlider .carousel-item{
+      height: 50vh;
    }
    
    .titulo{
