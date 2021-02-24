@@ -740,9 +740,9 @@ span.sub-img{
 
 @media (max-width: 495px){
    .container.comics{
-      padding-top: 50px;
+      padding-top: 30px;
    }
-   
+
    /* slider */
    #mainSlider{
       height: 240px;
