@@ -763,7 +763,7 @@ span.sub-img{
    /* textos */
    .carousel-caption h3{
       color: #ea2326;
-      font-size: 28px;
+      font-size: 20px;
    }
 
    .carousel-caption .subtitle-span{
@@ -771,12 +771,16 @@ span.sub-img{
    }
 
    .carousel-caption .p-sm{
-      display: none;
+      text-align: left;
    }
 }
 
 @media (max-width: 416px){
+   #mainSlider .carousel-inner, #mainSlider .carousel-item{
+      height: 45vh;
+   }
+
    .carousel-caption .titulo{
-      font-size: 40px;
+      font-size: 36px;
    }
 }
