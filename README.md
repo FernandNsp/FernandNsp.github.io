@@ -21,5 +21,6 @@
  - Scroll Animation
 
 **Feedback:**
+ 
 A capacitação foi excelente, consegui criar um site responsivo utilizando tudo que foi ensinado nos cursos dispostos pela byron. Estou satisfeita com o resultado e em como fomos bem recebidos pela EJ, com certeza procurarei aprimorar o que foi ensinado, buscando sempre melhorar e compartilhar o que foi aprendido.
 
