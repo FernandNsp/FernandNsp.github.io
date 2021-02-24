@@ -569,8 +569,12 @@ span.sub-img{
    
    /* img slider */   
    .slider-last{
-      width: 45%;
-      height: 102%;   
+      width: 35%;
+      height: 90%;   
+   }
+
+   .img-slider{
+      margin-top: 10px;
    }
 
    /* cards tamanho*/
@@ -648,13 +652,13 @@ span.sub-img{
 
    /* img slider */
    .img-slider{
-      position: relative;
-      left: 280px;
+      float: right;
+      margin-top: 5px;
    }
 
    .slider-last{
-      width: 60%;
-      height: 102%;   
+      width: 40%;
+      height: 100%;   
    }
 
    /* section */
