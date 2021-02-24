@@ -774,3 +774,9 @@ span.sub-img{
       display: none;
    }
 }
+
+@media (max-width: 416px){
+   .carousel-caption .titulo{
+      font-size: 40px;
+   }
+}
