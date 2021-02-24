@@ -741,6 +741,10 @@ span.sub-img{
 }
 
 @media (max-width: 495px){
+   #mainSlider .carousel-inner, #mainSlider .carousel-item{
+      height: 45vh;
+   }
+      
    .container.comics{
       padding-top: 40px;
    }
