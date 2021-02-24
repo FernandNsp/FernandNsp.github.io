@@ -518,7 +518,7 @@ span.sub-img{
 
 .main-subtitle.backs::after{
    content: "";
-   width: 50%;
+   width: 60%;
 }
 
 .usuario-name{
@@ -772,5 +772,11 @@ span.sub-img{
 
    .carousel-caption .p-sm{
       display: none;
+   }
+}
+
+@media (max-width: 416px){
+   .carousel-caption .titulo{
+      font-size: 40px;
    }
 }
