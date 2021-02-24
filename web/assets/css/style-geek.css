@@ -734,6 +734,12 @@ span.sub-img{
 }
 
 @media (max-width: 495px){
+   /* slider */
+   #mainSlider{
+      height: 300px;
+      margin-top: 63px;
+   }
+   
    .titulo{
       font-size: 50px;
    }
@@ -756,5 +762,4 @@ span.sub-img{
    .carousel-caption .p-sm{
       display: none;
    }
-
 }
