@@ -762,8 +762,7 @@ span.sub-img{
 
    /* textos */
    .carousel-caption h3{
-      color: #ea2326;
-      font-size: 20px;
+      display: none;
    }
 
    .carousel-caption .subtitle-span{
