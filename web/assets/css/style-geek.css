@@ -702,7 +702,7 @@ span.sub-img{
    }
 }
 
-@media (max-width: 575px){
+@media (max-width: 575px){  
    .carousel-caption h3{
       font-size: 24px;
       text-align: start;
@@ -734,10 +734,18 @@ span.sub-img{
 }
 
 @media (max-width: 495px){
+   .container.comics{
+      padding-top: 40px;
+   }
+
    /* slider */
    #mainSlider{
       height: 300px;
       margin-top: 63px;
+   }
+
+   #mainSlider .carousel-inner, #mainSlider .carousel-item{
+      height: 45vh;
    }
    
    .titulo{
@@ -762,5 +770,4 @@ span.sub-img{
    .carousel-caption .p-sm{
       display: none;
    }
-
 }
