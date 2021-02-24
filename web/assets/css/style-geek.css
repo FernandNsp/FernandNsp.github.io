@@ -703,6 +703,11 @@ span.sub-img{
 }
 
 @media (max-width: 575px){
+   #mainSlider{
+      height: 300px;
+      margin-top: 63px;
+   }
+   
    .carousel-caption h3{
       font-size: 24px;
       text-align: start;
