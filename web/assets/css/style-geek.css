@@ -518,7 +518,7 @@ span.sub-img{
 
 .main-subtitle.backs::after{
    content: "";
-   width: 60%;
+   width: 40%;
 }
 
 .usuario-name{
