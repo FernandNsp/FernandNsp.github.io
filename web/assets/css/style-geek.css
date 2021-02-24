@@ -555,6 +555,11 @@ span.sub-img{
 }
 
 @media (max-width: 1025px){
+   #mainSlider{
+      height: 300px;
+      margin-top: 65px;
+   }
+   
    /* intro slider */
    #introducao p{
       color: #FFF;
@@ -612,6 +617,7 @@ span.sub-img{
 }
 
 @media (max-width: 768px){
+   /* comics */
    .container.comics{
       padding: 0;
    }
@@ -741,12 +747,8 @@ span.sub-img{
 
    /* slider */
    #mainSlider{
-      height: 280px;
+      height: 300px;
       margin-top: 63px;
-   }
-
-   #mainSlider .carousel-inner, #mainSlider .carousel-item{
-      height: 40vh;
    }
    
    .titulo{
