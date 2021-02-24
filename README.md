@@ -7,6 +7,8 @@
   <img alt="Mundo Geek" src="./github/MundoGeek.png" width="100%">
 </p>
 
+- Para ter a visualização completa do site: <a href="https://fernandnsp.github.io/web/" target="_blank" rel="external">Mundo Geek</a>
+
 **Tecnologias utilizadas:**
  - Html
 - Css
