@@ -1,6 +1,6 @@
 
 <h1 align="center">
- Mundo Geek
+   <img alt="Logo Mundo Geek" src="./github/logo-mg.svg">
 </h1>
 
 **Página principal do site:**
