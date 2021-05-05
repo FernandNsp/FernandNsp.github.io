@@ -1,5 +1,7 @@
-# 💻 Meu Projeto
- Durante a capacitação de tecnologias da byron.solutions aprendemos sobre o framework Bootstrap 4, quais são suas ferramentas e como utilizá-las. Para a conclusão do curso foi nos passado a tarefa de criar nosso próprio site, utilizando todo o aprendizado contido no decorrer da capacitação.
+
+<h1 align="center">
+ Mundo Geek
+</h1>
 
 **Página principal do site:**
 
@@ -8,6 +10,9 @@
 </p>
 
 - Para ter a visualização completa do site: <a href="https://fernandnsp.github.io/web/" target="_blank" rel="external">Mundo Geek</a>
+
+# 💻 Meu Projeto
+ Durante a capacitação de tecnologias da byron.solutions aprendemos sobre o framework Bootstrap 4, quais são suas ferramentas e como utilizá-las. Para a conclusão do curso foi nos passado a tarefa de criar nosso próprio site, utilizando todo o aprendizado contido no decorrer da capacitação.
 
 **Tecnologias utilizadas:**
  - Html
